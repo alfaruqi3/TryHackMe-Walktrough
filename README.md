@@ -137,7 +137,3 @@ Some rooms may contain:
 Cybersecurity Enthusiast | TryHackMe | Hack The Box | PicoCTF | Root-Me
 
 ---
-
-## License
-
-This repository is licensed under the MIT License.
